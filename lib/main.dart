@@ -1,7 +1,7 @@
-//cd C:\Users\91911\Desktop\Projects\Flutter\first_app
+//cd C:\Users\91911\Desktop\Projects\Flutter\DiceRoller
 
 import 'package:flutter/material.dart';
-import 'package:first_app/gradient.dart';
+import 'package:DiceRoller/gradient.dart';
 
 void main() {
   runApp(
