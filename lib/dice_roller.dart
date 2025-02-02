@@ -48,4 +48,8 @@ class _DiceRollerState extends State<DiceRoller> {
       ],
     );
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 93888a4766b03ae4506bcfb8ae1bd08be31f4903

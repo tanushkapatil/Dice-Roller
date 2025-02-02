@@ -15,4 +15,8 @@ class StyledText extends StatelessWidget {
       ),
     );
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 93888a4766b03ae4506bcfb8ae1bd08be31f4903
